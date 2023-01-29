@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVoeller&bg_color=0d1117&title_color=fff&layout=compact&text_color=fff&langs_count=10&card_width=200" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=LukasVoeller&bg_color=0d1117&title_color=fff&text_color=fff&card_width=0&hide_title=true&show_icons=true&include_all_commits=true&text_bold=false" />
+  <img align="center" style="height: 215px;" src="https://github-readme-stats.vercel.app/api?username=LukasVoeller&bg_color=0d1117&title_color=fff&text_color=fff&card_width=200&hide_title=true&show_icons=true&include_all_commits=true&text_bold=false" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
